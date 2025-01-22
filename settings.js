@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Kuramaa'// yourname
-global.MONGO_DB_URI = "mongodb+srv://king:LRQRru4mgU81GOzp@cluster0.dboyf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://king:LRQRru4mgU81GOzp@cluster0.dboyf.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "king@kuramaa.my.id" //email
 global.email_password = "k5jTvPZVKvpK" //application password email
